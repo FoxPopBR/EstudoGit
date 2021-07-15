@@ -1,6 +1,6 @@
 1 Criando um arqui para teste de merge
 2 Branch main editando a linha 2 . 
-3
+3 Testando stash.. funcionou bem nice ;)
 4
 5
 6
